@@ -1,0 +1,30 @@
+michael phelps,190894
+neymar,178648
+usain bolt,176413
+simone biles,81995
+william,65139
+ryan lochte,41688
+katie ledecky,39893
+yulimar rojas,35638
+simone manuel,28415
+joseph schooling,26992
+rafaela silva,26066
+sakshi malik,25210
+wayde van niekerk,23055
+andy murray,22326
+kevin durant,21509
+tontowi ahmad,21153
+liliyana natsir,20498
+monica puig,18710
+andre de grasse,18213
+penny oleksiak,18109
+rafael nadal,16805
+laura trott,16364
+ruth beitia,15939
+luan,15724
+teddy riner,14730
+lilly king,14423
+jason kenny,12564
+shaunae miller,12399
+elaine thompson,12283
+caster semenya,12031
